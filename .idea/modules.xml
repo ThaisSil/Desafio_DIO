@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Desafio.iml" filepath="$PROJECT_DIR$/.idea/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diferencadigitos/Diferencadigitos.iml" filepath="$PROJECT_DIR$/Diferencadigitos/Diferencadigitos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Emboscada/Emboscada.iml" filepath="$PROJECT_DIR$/Emboscada/Emboscada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FiladoBanco/FiladoBanco.iml" filepath="$PROJECT_DIR$/FiladoBanco/FiladoBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlechaEscudoEspada/FlechaEscudoEspada.iml" filepath="$PROJECT_DIR$/FlechaEscudoEspada/FlechaEscudoEspada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenorMultiplo/MenorMultiplo.iml" filepath="$PROJECT_DIR$/MenorMultiplo/MenorMultiplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qual_seu_Turno/NumeroFeliz/NumeroFeliz.iml" filepath="$PROJECT_DIR$/Qual_seu_Turno/NumeroFeliz/NumeroFeliz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PercentualDesconto/PercentualDesconto.iml" filepath="$PROJECT_DIR$/PercentualDesconto/PercentualDesconto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qual_seu_Turno/Qual_seu_Turno.iml" filepath="$PROJECT_DIR$/Qual_seu_Turno/Qual_seu_Turno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuantidadeNecessaria/QuantidadeNecessaria.iml" filepath="$PROJECT_DIR$/QuantidadeNecessaria/QuantidadeNecessaria.iml" />
+    </modules>
+  </component>
+</project>

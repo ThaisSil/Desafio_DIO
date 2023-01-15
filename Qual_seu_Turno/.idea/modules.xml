@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FiladoBanco/FiladoBanco.iml" filepath="$PROJECT_DIR$/../FiladoBanco/FiladoBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MenorMultiplo/MenorMultiplo.iml" filepath="$PROJECT_DIR$/../MenorMultiplo/MenorMultiplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PercentualDesconto/PercentualDesconto.iml" filepath="$PROJECT_DIR$/../PercentualDesconto/PercentualDesconto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qual_seu_Turno.iml" filepath="$PROJECT_DIR$/Qual_seu_Turno.iml" />
+    </modules>
+  </component>
+</project>
